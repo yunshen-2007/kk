@@ -1,1 +1,1 @@
-Welcome to the 3wind wiki!*
+Welcome to the 3wind wiki!
