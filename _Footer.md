@@ -1,1 +1,1 @@
-[官网](3wind.cn)
+[官网](http://3wind.cn)
