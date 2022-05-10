@@ -18,3 +18,6 @@
 7.可免费创建一个价值5000金币的领地
 8.核心玩家轻度违规（失误卡服之类）将双倍处罚，重度违规直接踢出核心玩家。相反，举报反馈奖励也翻倍。
 9.核心玩家可使用假人
+
+"上一页 机器人使用教程":https://github.com/doubiovo/3wind/wiki/%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B
+"下一页 F&Q":https://github.com/doubiovo/3wind/wiki/F&Q
