@@ -5,4 +5,5 @@
 [4.F&Q](https://github.com/doubiovo/3wind/wiki/F&Q)  
 [5.服务器配置与花销](https://github.com/doubiovo/3wind/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E4%B8%8E%E8%8A%B1%E9%94%80)  
 [6.领地](https://github.com/doubiovo/3wind/wiki/%E9%A2%86%E5%9C%B0)  
-[7.金币](https://github.com/doubiovo/3wind/wiki/%E9%87%91%E5%B8%81)
+[7.金币](https://github.com/doubiovo/3wind/wiki/%E9%87%91%E5%B8%81)  
+[8.插件列表](https://github.com/doubiovo/3wind/wiki/%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
