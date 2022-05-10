@@ -13,3 +13,6 @@ CPU:i5 12600k
 赞助金额从未超过支出(目前约为8000￥)，所以不存在私吞赞助
 bds圈比我配置好的应该不出五十个吧
 白嫖的别要求升配置了，脸都不要了
+
+"上一页 F&Q":https://github.com/doubiovo/3wind/wiki/F&Q
+"下一页 领地":https://github.com/doubiovo/3wind/wiki/%E9%A2%86%E5%9C%B0
