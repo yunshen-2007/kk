@@ -9,3 +9,4 @@ Welcome to the 3wind wiki!
 7. [金币](https://github.com/doubiovo/3wind/wiki/%E9%87%91%E5%B8%81)
 8. [插件列表](https://github.com/doubiovo/3wind/wiki/%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8)
 9. [日志](https://github.com/doubiovo/3wind/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%97%A5%E5%BF%97)
+10. [三阵风发展史](https://github.com/doubiovo/3wind/wiki/%E4%B8%89%E9%98%B5%E9%A3%8E%E5%8F%91%E5%B1%95%E5%8F%B2)
