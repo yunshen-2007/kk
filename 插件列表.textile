@@ -1,4 +1,4 @@
-Sign-in.lxl.js [v1.0.0] (Sign-in.lxl.js)
+bq. Sign-in.lxl.js [v1.0.0] (Sign-in.lxl.js)
 trapdoor-0.10.5-1.18.31.04-test-1.dll [v1.0.0] (trapdoor-0.10.5-1.18.31.04-test-1.dll)
 Sweeper.lxl.js [v1.0.0] (Sweeper.lxl.js)
 LLMoney [v2.2.0] (LLMoney.dll)
@@ -28,3 +28,6 @@ iLand [v2.8.4] (iland-core.lua)
 status.js [v1.0.0] (status.js)
 tpsTest.lxl.js [v1.0.0] (tpsTest.lxl.js)
 WorldBorder.lua [v1.0.0] (WorldBorder.lua)
+
+"上一页 金币":https://github.com/doubiovo/3wind/wiki/%E9%87%91%E5%B8%81
+"下一页 日志":https://github.com/doubiovo/3wind/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%97%A5%E5%BF%97
