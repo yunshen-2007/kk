@@ -32,4 +32,6 @@ send 群里的小伙伴，我就是歌姬吧
 ### 服务器什么配置？
 [服务器配置与花销](https://github.com/doubiovo/3wind/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E4%B8%8E%E8%8A%B1%E9%94%80)
 ### 领地怎么用？
-[领地](https://github.com/doubiovo/3wind/wiki/%E9%A2%86%E5%9C%B0)
+[领地使用教程](https://github.com/doubiovo/3wind/wiki/%E9%A2%86%E5%9C%B0)
+### 能加xxxxx功能吗？
+不违反原版规则的都是可以提的，欢迎大家提出意见！[建议提交](https://docs.qq.com/form/page/DWmRSVFRuQ0dtRmxJ)
