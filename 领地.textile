@@ -22,7 +22,7 @@
 3.2D圈地是默认y轴全覆盖
 4.2D价格为面积*2
 5.3D价格为体积/40
-6.凋零破坏，拾取物品，丢弃物品，吃东西无法关闭
+6.生物破坏，拾取物品，丢弃物品，吃东西无法关闭
 
 "上一页 服务器配置与花销":https://github.com/doubiovo/3wind/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E4%B8%8E%E8%8A%B1%E9%94%80
 "下一页 金币":https://github.com/doubiovo/3wind/wiki/%E9%87%91%E5%B8%81
