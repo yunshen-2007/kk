@@ -66,5 +66,8 @@
 2.领地退款率调为60%
 3.领地最低圈地限制改为400
 4.关闭领地防爆
+5月23日
+1.增加信息头顶显示
+2.修复pl.name带来的bug
 "上一页 插件列表":https://github.com/doubiovo/3wind/wiki/%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8
 "下一页 三阵风发展史":https://github.com/doubiovo/3wind/wiki/%E4%B8%89%E9%98%B5%E9%A3%8E%E5%8F%91%E5%B1%95%E5%8F%B2
