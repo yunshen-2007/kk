@@ -52,7 +52,7 @@ send 群里的小伙伴，我就是歌姬吧
 * 本服加入了trapdoor，大部分设置是全局的，一个人开启大家都会看到。如果觉得碍事可以自行删除材质包
 * [trapdoor使用教程](https://hhhxiao.github.io/TrapDoor/func.html)
 ### 为什么有时候会集体掉线？
-动态IP分配，基本上2-5天一次，等待1-5分钟即可
+动态IP分配，基本上2-5天一次，等待1-5分钟即可。也可以选择使用备用线路。
 
 [上一页 核心玩家](https://github.com/doubiovo/3wind/wiki/%E6%A0%B8%E5%BF%83%E7%8E%A9%E5%AE%B6)  
 [下一页 服务器配置与花销](https://github.com/doubiovo/3wind/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E9%85%8D%E7%BD%AE%E4%B8%8E%E8%8A%B1%E9%94%80)
