@@ -1,4 +1,4 @@
-* "4月20日以前日志":https://share.weiyun.com/xTjIo8ev
+* "4月20日以前日志":https://docs.qq.com/doc/DWldQb0tmVEpYZnds
 * "4.21-5.23日志":http://docs.qq.com/doc/DWkh3WVZvV1R1YVRG
 * 6月11日
 1.服务端版本更新为1.19.1
