@@ -22,8 +22,8 @@
 1.在线时间记录清空
 2.优化死亡坐标显示，可查询历史五个死亡点
 3.IP属地公开
+4.增加头顶信息显示
 * 6月16日
 1.条例进行细化
-4.增加头顶信息显示
 "上一页 插件列表":https://github.com/doubiovo/3wind/wiki/%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8
 "下一页 三阵风发展史":https://github.com/doubiovo/3wind/wiki/%E4%B8%89%E9%98%B5%E9%A3%8E%E5%8F%91%E5%B1%95%E5%8F%B2
