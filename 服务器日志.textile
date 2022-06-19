@@ -27,5 +27,6 @@
 1.条例进行细化
 * 6月19日
 1.服务器视距限制为14
+2.3秒内红石激活次数限制为20
 "上一页 插件列表":https://github.com/doubiovo/3wind/wiki/%E6%8F%92%E4%BB%B6%E5%88%97%E8%A1%A8
 "下一页 三阵风发展史":https://github.com/doubiovo/3wind/wiki/%E4%B8%89%E9%98%B5%E9%A3%8E%E5%8F%91%E5%B1%95%E5%8F%B2
