@@ -51,3 +51,4 @@ kk                  3536692492
 从未放弃，砥砺前行
 
 "上一页 日志":https://github.com/doubiovo/3wind/wiki/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%97%A5%E5%BF%97
+"下一页 公会":https://github.com/doubiovo/3wind/wiki/%E5%85%AC%E4%BC%9A
